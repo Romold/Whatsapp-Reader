@@ -1,3 +1,5 @@
+#OPEN AI doesn't allow free access building this from Scratch
+
 from flask import Flask, request, jsonify
 import openai
 from openai import OpenAI
