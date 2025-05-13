@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="![kikk](https://github.com/user-attachments/assets/b22ad770-fff9-41bf-bdc3-028088ce07a6)
+      <img src="!(https://github.com/user-attachments/assets/b22ad770-fff9-41bf-bdc3-028088ce07a6)
 " width = "300" alt="Resume book image">
     </td>
     <td>
