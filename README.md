@@ -1,6 +1,6 @@
 # Whatsapp Response Automation
   ![Jupyter Notebook](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-      ![Python](https://img.shields.io/badge/Python-blue)
+  ![Python](https://img.shields.io/badge/Python-blue)
             
 <table>
   <tr>
