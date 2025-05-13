@@ -14,6 +14,5 @@
     </td>
   </tr>
 </table>
-
-We're live at https://uw-cse-resume-book.streamlit.app. <br/>
-Made with 🧡 by Catherine Rasgaitis.
+<br/>
+Made by Romold.
