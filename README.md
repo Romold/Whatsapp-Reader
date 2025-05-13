@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/b22ad770-fff9-41bf-bdc3-028088ce07a6" width = "300" alt="QLearning">
+      <img src="https://github.com/user-attachments/assets/b22ad770-fff9-41bf-bdc3-028088ce07a6" width = "180" alt="QLearning">
     </td>
     <td>
       <h3>A Whatsapp AI Agent ( Q Learning based )</h3>
@@ -15,4 +15,4 @@
   </tr>
 </table>
 <br/>
-Made by Romold.
+Made with 🧡 Romold.
